@@ -1,8 +1,3 @@
-"""
-Author: Sanyam Kapoor
-URL: https://www.github.com/activatedgeek/gym-2048
-"""
-
 import numpy as np
 import gym
 import gym.spaces as spaces
